@@ -1,0 +1,27 @@
+div{
+  text-align: center;
+}
+h1{
+  font-size: 80px;
+  font-family: Impact;
+}
+h2{
+  font-size: 65px;
+  font-family: Verdana;
+}
+p{
+  font-size: 38px;
+  font-family: serif;
+  font-style: italic;
+}
+button{
+  color: white;
+  background-color: rgb(88, 50, 4);
+  width: 200px;
+  height: 50px;
+}
+
+button:hover{
+  background-color: rgb(14, 182, 248);
+  color: black;
+}
